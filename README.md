@@ -1,4 +1,4 @@
-# Template_Aurelia__Webpack3_TypeScript_Materialize project
+# Template_Aurelia_Webpack3_TypeScript_Materialize
 
 This repository contains template for running Aurelia and ASP.NET Core 2.0. 
 With Webpack 3, TypeScript, Bootstrap 4, Sass and Materialize design.
